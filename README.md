@@ -6,7 +6,7 @@ In an age where information is abundant yet time is limited, **Briefly** stands 
 
 Our application leverages advanced algorithms and a clean design to deliver news that matters to you. With **Briefly**, you can customize your news feed according to your preferences, ensuring that you only see content that's relevant and interesting to you. The intuitive interface and smooth performance make navigating through news articles a delightful experience.
 
-<img src="images/logoani.gif" alt="logo">
+<img src="images/anilogo.gif" alt="logo">
 
 ## Features
 
