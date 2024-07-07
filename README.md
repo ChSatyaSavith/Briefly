@@ -44,11 +44,12 @@ To set up **Briefly** on your local machine, follow these instructions:
 
 ## Screenshots
 
-![Screenshot 1](images/IMG-20240707-WA0012.jpg)
-![Screenshot 2](images/IMG-20240707-WA0013.jpg)
-![Screenshot 3](images/IMG-20240707-WA0014.jpg)
-![Screenshot 4](images/IMG-20240707-WA0015.jpg)
-
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="images/IMG-20240707-WA0012.jpg" alt="Screenshot 1" width="300">
+  <img src="images/IMG-20240707-WA0013.jpg" alt="Screenshot 2" width="300">
+  <img src="images/IMG-20240707-WA0014.jpg" alt="Screenshot 3" width="300">
+  <img src="images/IMG-20240707-WA0015.jpg" alt="Screenshot 4" width="300">
+</div>
 
 ## Technical Stack
 
