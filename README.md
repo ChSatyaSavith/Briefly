@@ -44,8 +44,10 @@ To set up **Briefly** on your local machine, follow these instructions:
 
 ## Screenshots
 
-![Screenshot 1](https://drive.google.com/file/d/1VpJkq5XZQSqQHZrrYMaSnb-Y5eX-6Fgf/view?usp=drive_link)
-![Screenshot 2](https://drive.google.com/file/d/1RME362Us5mqdJ1RntZy0Fyl8kNuPx0EO/view?usp=drive_link)
+![Screenshot 1](images/IMG-20240707-WA0012.jpg)
+![Screenshot 2](images/IMG-20240707-WA0013.jpg)
+![Screenshot 3](images/IMG-20240707-WA0014.jpg)
+![Screenshot 4](images/IMG-20240707-WA0015.jpg)
 
 
 ## Technical Stack
