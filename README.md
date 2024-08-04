@@ -1,10 +1,10 @@
 # Briefly
 
-Welcome to **Briefly**, a cutting-edge news application designed to keep you informed with elegance and efficiency. Developed using Flutter and Dart, Briefly offers a seamless and intuitive experience to explore the latest news across various categories.
+Welcome to **Briefly**, a news app designed to keep you informed quickly and easily. Built with Flutter and Dart, **Briefly** lets you explore the latest news across various categories.
 
-In an age where information is abundant yet time is limited, **Briefly** stands out by providing a streamlined, user-centric platform that curates news in a way that's both comprehensive and accessible. Whether you're interested in current affairs, technology, entertainment, sports, or any other category, Briefly ensures you stay updated with the most relevant and trending stories.
+With **Briefly**, you can stay updated on current affairs, technology, entertainment, sports, and more. You can search for topics or browse news through different categories to find what interests you.
 
-Our application leverages advanced algorithms and a clean design to deliver news that matters to you. With **Briefly**, you can customize your news feed according to your preferences, ensuring that you only see content that's relevant and interesting to you. The intuitive interface and smooth performance make navigating through news articles a delightful experience.
+The app's simple interface and smooth performance make it easy to read and navigate news articles. **Briefly** is here to help you stay informed without any hassle.
 
 <img src="images/anilogo.gif" alt="logo">
 
@@ -13,10 +13,7 @@ Our application leverages advanced algorithms and a clean design to deliver news
 - **Category Search:** Effortlessly discover news articles by selecting from a wide range of categories.
 - **Trending News:** Stay ahead with the most trending and significant news topics.
 - **User-friendly Interface:** Experience a sleek, clean, and intuitive design for optimal navigation.
-- **Personalized Experience:** Customize your news feed according to your preferences.
-- **Offline Access:** Save articles for offline reading, ensuring you have access to news even without an internet connection.
-- **Notifications:** Receive timely notifications for breaking news and updates on your favorite topics.
-
+  
 ## Installation
 
 To set up **Briefly** on your local machine, follow these instructions:
@@ -54,29 +51,8 @@ To set up **Briefly** on your local machine, follow these instructions:
 
 - **Framework:** Flutter
 - **Language:** Dart
-- **State Management:** Provider
-- **Backend:** Firebase (or specify your backend)
-- **API:** News API for fetching the latest news articles
-
-## Contribution Guidelines
-
-We welcome and appreciate contributions to enhance the functionality and user experience of **Briefly**. To contribute, please follow these steps:
-
-1. **Fork the repository.**
-2. **Create a new feature branch:**
-    ```bash
-    git checkout -b feature/your-feature-name
-    ```
-3. **Implement your changes and commit them:**
-    ```bash
-    git commit -m "Description of your feature or fix"
-    ```
-4. **Push your changes to the branch:**
-    ```bash
-    git push origin feature/your-feature-name
-    ```
-5. **Open a pull request.**
-
+- **API:** News API for fetching the latest news articles, Gemini API for summarizing news articles
+  
 ## License
 
 This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
